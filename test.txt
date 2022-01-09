@@ -1,3 +1,4 @@
 Texte sur 
 trois lignes
 ici on intègre un mot : "" et ici on en supprime un : "Garen"
+J'ajoute une ligne sur Git directement avant de pull sur mon éditeur
